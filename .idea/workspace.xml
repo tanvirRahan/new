@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05d6793e-f81a-4f04-a1c6-a570c0cefabc" name="Changes" comment="html css connect project">
+    <list default="true" id="05d6793e-f81a-4f04-a1c6-a570c0cefabc" name="Changes" comment="1st tanvir rahan rifat">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edu_help/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_help/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edu_help/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/edu_help/static/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edu_help/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/edu_help/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edu_help/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edu_help/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edu_help/templates/signup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/edu_help/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_help/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edu_help/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu_help/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +30,12 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/tanvirRahan/edu_help.git&quot;,
-    &quot;accountId&quot;: &quot;ddf34183-5a62-4ffe-9a67-aaa53aabd89f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tanvirRahan/edu",
+    "accountId": "ddf34183-5a62-4ffe-9a67-aaa53aabd89f"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/edu_help/templates/base.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/edu_help/templates/login.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
@@ -140,7 +130,7 @@
       <workItem from="1732294990750" duration="1522000" />
       <workItem from="1732454322128" duration="2705000" />
       <workItem from="1732460728639" duration="12000" />
-      <workItem from="1732461173858" duration="6766000" />
+      <workItem from="1732461173858" duration="7729000" />
     </task>
     <task id="LOCAL-00001" summary="html css connect project">
       <option name="closed" value="true" />
@@ -166,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732034973351</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1st tanvir rahan rifat">
+      <option name="closed" value="true" />
+      <created>1732468368458</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732468368458</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +183,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="html css connect project" />
-    <option name="LAST_COMMIT_MESSAGE" value="html css connect project" />
+    <MESSAGE value="1st tanvir rahan rifat" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st tanvir rahan rifat" />
   </component>
 </project>
