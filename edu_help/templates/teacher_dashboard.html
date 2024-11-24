@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block title %}Teacher Dashboard{% endblock %}
+
+{% block content %}
+<div class="dashboard-container">
+    <h2>Welcome, {{ user.username }}</h2>
+    <h3>Your Courses</h3>
+    <ul>
+        {% for course in teacher_courses %}
+            <li>{{ course.name }} - <a href="/course/{{ course.id }}/">View Students</a></li>
+        {% endfor %}
+    </ul>
+
+    <h3>Add a New Course</h3>
+    <form method="post" action="/add-course/">
+        {% csrf_token %}
+        <label for="course-name">Course Name</label>
+        <input type="text" id="course-name" name="course_name" required>
+
+        <button type="submit" class="btn">Add Course</button>
+    </form>
+</div>
+{% endblock %}
